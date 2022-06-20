@@ -1,6 +1,7 @@
 # Scrape Discord
 
-This script allows you to scrape data from discord with Python. Currently it will only grab file-links.
+This script allows you to scrape data from discord with Python. <br />
+Currently it is able to grab all (img/video/text-)file-links from server channels or private conversations.
 
 Last tested 20.06.22.
 
