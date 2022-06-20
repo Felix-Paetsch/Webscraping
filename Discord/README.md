@@ -67,5 +67,5 @@ Before running this program you will probably want to update the config.json fil
 - `valid_file_extensions`: What type of files to look for. 
 
 ## To-Do
-[ ] scrape text-messages with user-data aswell
+[ ] scrape text-messages with user-data aswell<br />
 [ ] remove duplicats
