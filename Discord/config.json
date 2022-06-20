@@ -2,7 +2,7 @@
     "max_images_displayed": 30,
     "init_scroll": 0,
     "scroll_pause": 1,
-    "cycle_stop_after": 75,
+    "cycle_stop_after": 150,
     "cycle_save_amt": 20,
     "cycle_amt": 1000,
     "save_dir": "./out",
