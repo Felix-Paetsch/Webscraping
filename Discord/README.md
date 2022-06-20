@@ -35,17 +35,16 @@ A browser-instance will open.
 - With really long channels and long durations of scraping, sometimes it is to much data for the browser and it crashes. (For me maybe every 12 hours of scraping.) When this happened but you want to continue scraping higher up you can search for messages at the top-right with the magnifying glass. Conveniently it allows you to also sort by date so you can skip back to the time where your browser crashed. Be carefull to update the file_prefix in [config.json](#Config), since the counting will start back at 0.
 - This tool can be used both on channels in discord servers and with private messages.
 - During the scraping you can - although not recommended - change the currently scraped channel and the messages will just be appended to the old ones. If you have a bad timing though the program will crash. (Because it's trying to read out the messages while the new channel is loading.)
-- If you exit 
 
 ## Output
 For an example output see ./out/scraped_channel_xyz_0.json. The messages will be parsed and periodically written into such files. Note that the index always starts at 0, so make sure to [update the prefix](#Config) between two scrapping sessions.
 This program only saves file-links of files hosted on discord. To save space the first part of the URL is not saved. To retrieve the URL from the array entries add `https://cdn.discordapp.com/attachments/` infront of them:
 
-`xxx`
+`828649725355098194/937012853179822120/egq235i14le81.png`
 
 becomes
 
-`https://cdn.discordapp.com/attachments/xxx`
+`https://cdn.discordapp.com/attachments/828649725355098194/937012853179822120/egq235i14le81.png`
 
 (Btw. these images are from memes discord of a uni I went to in germany.)
 
