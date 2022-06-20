@@ -3,7 +3,7 @@
 This script allows you to scrape data from discord with Python. Currently it will only grab file-links. Pullrequests are welcome. Last tested 20.06.22.
 
 ## Requirements
-- bs4 (pip install bs4)
+- bs4 (`pip install bs4`)
 - Selenium
 
 ### You just want to get done:
@@ -67,5 +67,5 @@ Before running this program you will probably want to update the config.json fil
 - `valid_file_extensions`: What type of files to look for. 
 
 ## To-Do
-[] scrape text-messages with user-data aswell
-[] remove duplicats
+[ ] scrape text-messages with user-data aswell
+[ ] remove duplicats
