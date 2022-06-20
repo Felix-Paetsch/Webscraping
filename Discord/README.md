@@ -25,7 +25,7 @@ Note that there are also ways to use Selenium with [other browsers](https://sele
 ##### 1. [Update config.json](#Config)
 ##### 2. Open commandline in this directory
 ##### 3. Start the program
-`python main.py`
+`python main.py` <br />
 A browser-instance will open. 
 ##### 4. Log into Discord
 ##### 5. Navigate to the channel you want to scrape from
