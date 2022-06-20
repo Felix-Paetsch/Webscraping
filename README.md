@@ -2,4 +2,4 @@
 Project to create webscraping scripts for major websites.<br />
 (Discord, DeepL, Langenscheidt, ...)
 
-## Project Structure
+See each subfolder for more information.
