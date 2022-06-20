@@ -32,7 +32,7 @@ A browser-instance will open.
 ##### 6. Press \[ENTER\] (or any key)
 
 ##### Hints:
-- With really long channels and long durations of scraping, sometimes it is to much data for the browser and it crashes. (For me maybe every 12 hours of scraping.) When this happened but you want to continue scraping higher up you can search for messages at the top-right with the magnifying glass. Conveniently it allows you to also sort by date so you can skip back to the time where your browser crashed. Be carefull to update the file_prefix in [config.json](#Config)], since the counting will start back at 0.
+- With really long channels and long durations of scraping, sometimes it is to much data for the browser and it crashes. (For me maybe every 12 hours of scraping.) When this happened but you want to continue scraping higher up you can search for messages at the top-right with the magnifying glass. Conveniently it allows you to also sort by date so you can skip back to the time where your browser crashed. Be carefull to update the file_prefix in [config.json](#Config), since the counting will start back at 0.
 - This tool can be used both on channels in discord servers and with private messages.
 - During the scraping you can - although not recommended - change the currently scraped channel and the messages will just be appended to the old ones. If you have a bad timing though the program will crash. (Because it's trying to read out the messages while the new channel is loading.)
 - If you exit 
