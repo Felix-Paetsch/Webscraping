@@ -46,12 +46,12 @@ becomes
 
 `https://cdn.discordapp.com/attachments/828649725355098194/937012853179822120/egq235i14le81.png`
 
-(Btw. these images are from memes discord of a uni I went to in germany.)
+(Btw. these images are from a memes discord of a uni I went to in germany.)
 
 ## Brief explanation
 Because it is somewhat important to select the best settings here is a brief explanation of what the script does:
 
-In each *cycle* it finds the scroll-bar and pressed n times at it's top to cause it to scroll up. After k cycles it goes through all messages, which are currently loaded, parses them and whites them to an output file.
+In each *cycle* it finds the scroll-bar and presses n times at it's top to cause it to scroll up. After k cycles it goes through all messages, which are currently loaded, parses them and whites them to an output file.
 
 (Messages do get unloaded after some time. There will be lots of duplicats. Since this programm currently only works for scraping img/video filesit is easy to filter for unique links once the scraping is done. Even though this still is a todo!)
 
