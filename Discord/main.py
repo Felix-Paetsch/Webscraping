@@ -32,7 +32,7 @@ def get_all_current_img_links(src = driver.page_source):
     for x in link_list:
         try:
             if x["href"].split(".")[-1] in CONFIG["valid_file_extensions"]:
-                res.append(x["href"][39:])
+                res.append(x["href"])
         except:
             pass
     
