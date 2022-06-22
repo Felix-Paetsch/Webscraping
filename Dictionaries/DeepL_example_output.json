@@ -1,0 +1,51 @@
+{
+    "input": "please",
+    "translation": "alsjeblieft",
+    "suggestions": [
+        {
+            "main_term": {
+                "text": "please",
+                "context": null,
+                "word_type": "Adverb"
+            },
+            "translations": [
+                { "translation": "gelieve", "examples": [] },
+                {
+                    "translation": "alsjeblieft",
+                    "examples": [
+                        {
+                            "src": "Could you please help me?",
+                            "target": "Kun je me helpen, alsjeblieft?"
+                        }
+                    ]
+                }
+            ]
+        },
+        {
+            "main_term": {
+                "text": "please",
+                "context": null,
+                "word_type": "Interjektion"
+            },
+            "translations": [{ "translation": "alstublieft", "examples": [] }]
+        },
+        {
+            "main_term": {
+                "text": "please",
+                "context": null,
+                "word_type": "Verb"
+            },
+            "translations": [
+                {
+                    "translation": "bevallen",
+                    "examples": [
+                        {
+                            "src": "The pupil's derogatory attitude did not please the teacher. ",
+                            "target": "De denigrerende houding van de leerling beviel de leraar niet."
+                        }
+                    ]
+                }
+            ]
+        }
+    ]
+}
