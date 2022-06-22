@@ -2,6 +2,8 @@ This directory contains scripts to scrape data from different language- and tran
 
 # DeepL [(https://www.deepl.com/translator)](https://www.deepl.com/translator)
 
+Last tested: 22.06.22
+
 ## Requirements
 - bs4 (`pip install bs4`)
 - Selenium
